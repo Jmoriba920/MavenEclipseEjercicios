@@ -1,0 +1,11 @@
+package es.iescarrillo.daw.endes.fibonacciMain;
+
+import package es.iescarrillo.daw.endes.fibonacci;
+ 
+public class App
+{
+    public static void main( String[] args )
+    {
+    	CustomObject App = new CustomObject();
+    }
+}
